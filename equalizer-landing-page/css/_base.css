@@ -29,4 +29,9 @@ body {
 
   max-width: 60rem;
   margin: 0 auto;
+
+  background-image: url(/equalizer-landing-page/images/bg-main-mobile.png);
+  background-repeat: no-repeat;
+  background-position: right 30rem top -9rem;
+  background-size: 30rem;
 }
