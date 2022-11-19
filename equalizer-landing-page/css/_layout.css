@@ -14,6 +14,11 @@
   background-color: var(--very-dark-black);
   /* padding: 10rem; */
   position: absolute;
+
+  background-image: url(/equalizer-landing-page/images/bg-pattern-1.svg),
+    url(/equalizer-landing-page/images/bg-pattern-2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .product__image {
