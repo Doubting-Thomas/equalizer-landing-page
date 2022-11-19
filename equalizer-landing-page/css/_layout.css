@@ -9,3 +9,18 @@
 .heading-main {
   font-weight: 700;
 }
+
+.product__box {
+  background-color: var(--very-dark-black);
+  /* padding: 10rem; */
+  position: absolute;
+}
+
+.product__image {
+  height: 30%;
+  width: 30%;
+
+  position: relative;
+  left: 10rem;
+  top: -8rem;
+}
