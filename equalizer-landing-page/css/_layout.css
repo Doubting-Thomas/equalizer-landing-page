@@ -29,3 +29,59 @@
   left: 10rem;
   top: -8rem;
 }
+
+.product__cta {
+  background-color: var(--soft-red);
+  color: var(--light-grayish-orange);
+  border-radius: 1rem;
+
+  padding: 5rem 3rem;
+  width: 50%;
+  z-index: 100;
+  position: relative;
+  top: 12rem;
+  left: 23rem;
+}
+
+.product__plan {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.product__price {
+  font-size: 5rem;
+}
+
+.btn {
+  padding: 1.5rem 3rem;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  width: 90%;
+  border: none;
+  border-radius: 1rem;
+
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  transform: scale(0.9);
+}
+
+.btn:active {
+  transform: scale(1);
+}
+
+.btn--dark {
+  background-color: var(--very-dark-black);
+  color: var(--light-grayish-orange);
+}
+
+.btn--light {
+  background-color: var(--light-grayish-orange);
+  color: var(--very-dark-black);
+}
