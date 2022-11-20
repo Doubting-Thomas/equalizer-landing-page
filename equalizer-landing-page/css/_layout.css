@@ -10,6 +10,10 @@
   font-weight: 700;
 }
 
+.product {
+  padding: 0 0 10rem 0;
+}
+
 .product__box {
   background-color: var(--very-dark-black);
   /* padding: 10rem; */
