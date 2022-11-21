@@ -89,3 +89,11 @@
   background-color: var(--light-grayish-orange);
   color: var(--very-dark-black);
 }
+
+.footer {
+  padding: 5rem 1rem;
+}
+
+.footer__text-bold {
+  text-decoration: none;
+}
