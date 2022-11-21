@@ -16,7 +16,6 @@
 
 .product__box {
   background-color: var(--very-dark-black);
-  /* padding: 10rem; */
   position: absolute;
 
   background-image: url(/equalizer-landing-page/images/bg-pattern-1.svg),
@@ -96,4 +95,6 @@
 
 .footer__text-bold {
   text-decoration: none;
+  color: var(--very-dark-black);
+  font-weight: 600;
 }
