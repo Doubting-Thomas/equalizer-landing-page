@@ -21,7 +21,7 @@
   background-image: url(/equalizer-landing-page/images/bg-pattern-1.svg),
     url(/equalizer-landing-page/images/bg-pattern-2.svg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right 15rem top -3rem;
 }
 
 .product__image {
