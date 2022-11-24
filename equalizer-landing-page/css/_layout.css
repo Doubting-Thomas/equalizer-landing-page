@@ -67,6 +67,10 @@
   justify-content: space-between;
 }
 
+.footer__text-box {
+  width: 60%;
+}
+
 .footer__logo-box {
   display: flex;
   align-items: center;
