@@ -7,6 +7,7 @@
   }
   .hero {
     padding: 10rem;
+    width: 120rem;
   }
 
   .product {
@@ -31,7 +32,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 50rem;
+    gap: 55rem;
   }
 
   /* .footer__container {
